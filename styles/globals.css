@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom {
+  position: absolute !important;
+  top: 31%;
+  left: 48%;
+}
