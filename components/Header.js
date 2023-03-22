@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import { useMoralis, useMorilis } from 'react-moralis';
+import { useMoralis } from 'react-moralis';
 import Avatar from './avatar';
 import ChangeUsername from './ChangeUsername';
 
